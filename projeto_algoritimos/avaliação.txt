@@ -1,0 +1,10 @@
+Motorista: gabriel
+Avaliação: 5.0 estrela(s)
+Origem: SOUSA
+Destino: CJ
+Data/Hora: 10/06/2025 10:45
+Valor : R$ 45.0
+Vagas restantes: 3
+Total recebido nesta carona: R$45.0
+Comentario: eu gostei muito
+----------------------------------------
